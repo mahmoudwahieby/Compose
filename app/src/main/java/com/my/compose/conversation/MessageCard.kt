@@ -1,4 +1,4 @@
-package com.my.compose.tutorial001
+package com.my.compose.conversation
 
 import android.content.res.Configuration
 import androidx.compose.animation.animateColorAsState

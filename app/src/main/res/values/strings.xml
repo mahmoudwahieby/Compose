@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">Compose</string>
     <string name="contact_profile_picture">Contact profile picture</string>
+    <string name="welcome_basics">Welcome to the Basics!</string>
+    <string name="arrow_up">Arrow Up</string>
+    <string name="Continue">Continue</string>
+    <string name="hello">Hello</string>
+    <string name="paragraph">"Compose ipsum color sit lazy, padding theme elit, sed do bouncy. "</string>
 </resources>

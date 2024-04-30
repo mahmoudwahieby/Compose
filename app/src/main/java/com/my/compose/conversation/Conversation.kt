@@ -1,4 +1,4 @@
-package com.my.compose.tutorial001
+package com.my.compose.conversation
 
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.items
