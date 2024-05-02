@@ -6,4 +6,19 @@
     <string name="Continue">Continue</string>
     <string name="hello">Hello</string>
     <string name="paragraph">"Compose ipsum color sit lazy, padding theme elit, sed do bouncy. "</string>
+    <string name="ic1">Ali</string>
+    <string name="ic2">Morad</string>
+    <string name="ic3">Boss</string>
+    <string name="ic4">GG</string>
+    <string name="ic5">Gamer</string>
+    <string name="ic6">Pro</string>
+    <string name="ic7">Mohamed Ali Boxing</string>
+    <string name="ic8">Boom</string>
+    <string name="ic9">Ba</string>
+    <string name="ic10">Tra</string>
+    <string name="placeholder_search">Search</string>
+    <string name="align_your_body">Align Your Body</string>
+    <string name="favorite_collections">Favorite Collections</string>
+    <string name="bottom_navigation_home">Home</string>
+    <string name="bottom_navigation_profile">Profile</string>
 </resources>
