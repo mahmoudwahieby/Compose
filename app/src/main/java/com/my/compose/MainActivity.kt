@@ -11,6 +11,7 @@ import androidx.compose.ui.Modifier
 import com.my.compose.basics.Basics
 import com.my.compose.conversation.Conversation
 import com.my.compose.layouts.Layouts
+import com.my.compose.states.WellnessScreen
 import com.my.compose.ui.theme.ComposeTheme
 
 class MainActivity : ComponentActivity() {
@@ -27,6 +28,7 @@ class MainActivity : ComponentActivity() {
                     // Conversation(SampleData.conversationSample)
                     // Basics()
                     // Layouts(windowSize = windowSizeClass)
+                    WellnessScreen()
                 }
             }
         }

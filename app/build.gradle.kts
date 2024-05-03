@@ -69,4 +69,5 @@ dependencies {
 
     implementation(libs.androidx.material.icons.extended)
     implementation(libs.androidx.material3.window)
+    implementation(libs.lifecycle.viewmodel.compose)
 }
