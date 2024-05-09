@@ -28,7 +28,7 @@ class MainActivity : ComponentActivity() {
                     // Conversation(SampleData.conversationSample)
                     // Basics()
                     // Layouts(windowSize = windowSizeClass)
-                    WellnessScreen()
+                    // WellnessScreen()
                 }
             }
         }
